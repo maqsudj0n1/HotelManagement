@@ -1,0 +1,433 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\Flaticon.zip",
+      "PackagePath": "staticwebassets\\Source\\Flaticon.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\Magnific-Popup-master.zip",
+      "PackagePath": "staticwebassets\\Source\\Magnific-Popup-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\OwlCarousel2-2.3.4.zip",
+      "PackagePath": "staticwebassets\\Source\\OwlCarousel2-2.3.4.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\SlickNav-master.zip",
+      "PackagePath": "staticwebassets\\Source\\SlickNav-master.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\bootstrap-4.4.1-dist.zip",
+      "PackagePath": "staticwebassets\\Source\\bootstrap-4.4.1-dist.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\elegant_font.zip",
+      "PackagePath": "staticwebassets\\Source\\elegant_font.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\font-awesome-4.7.0.zip",
+      "PackagePath": "staticwebassets\\Source\\font-awesome-4.7.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\jquery-nice-select-1.1.0.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-nice-select-1.1.0.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\jquery-ui-1.12.1.zip",
+      "PackagePath": "staticwebassets\\Source\\jquery-ui-1.12.1.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\Source\\sass.zip",
+      "PackagePath": "staticwebassets\\Source\\sass.zip"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\about-us.html",
+      "PackagePath": "staticwebassets\\about-us.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\blog-details.html",
+      "PackagePath": "staticwebassets\\blog-details.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\blog.html",
+      "PackagePath": "staticwebassets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\flaticon.css",
+      "PackagePath": "staticwebassets\\css\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\images\\ui-icons_444444_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_444444_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\images\\ui-icons_555555_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_555555_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\fonts\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\about\\about-1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\about\\about-2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\about\\about-p1.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\about\\about-p2.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\about\\about-p3.jpg",
+      "PackagePath": "staticwebassets\\img\\about\\about-p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-10.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-7.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-8.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-9.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\avatar\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\avatar\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\blog-details-1.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\blog-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\blog-details-2.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\blog-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\blog-details-3.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\blog-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-details\\blog-details-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-details\\blog-details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\blog\\blog-wide.jpg",
+      "PackagePath": "staticwebassets\\img\\blog\\blog-wide.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\flag.jpg",
+      "PackagePath": "staticwebassets\\img\\flag.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\footer-logo.png",
+      "PackagePath": "staticwebassets\\img\\footer-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\hero\\hero-1.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\hero\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\hero\\hero-3.jpg",
+      "PackagePath": "staticwebassets\\img\\hero\\hero-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\logo.png",
+      "PackagePath": "staticwebassets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\play.png",
+      "PackagePath": "staticwebassets\\img\\play.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\avatar\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\avatar\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\avatar\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\avatar\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-3.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-4.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-5.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-6.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-b1.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-b2.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-b3.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-b4.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-b4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\room\\room-details.jpg",
+      "PackagePath": "staticwebassets\\img\\room\\room-details.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\services\\s-icon-1.png",
+      "PackagePath": "staticwebassets\\img\\services\\s-icon-1.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\testimonial-logo.png",
+      "PackagePath": "staticwebassets\\img\\testimonial-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\img\\video-bg.jpg",
+      "PackagePath": "staticwebassets\\img\\video-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\main.html",
+      "PackagePath": "staticwebassets\\main.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\readme.txt",
+      "PackagePath": "staticwebassets\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\room-details.html",
+      "PackagePath": "staticwebassets\\room-details.html"
+    },
+    {
+      "Id": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\wwwroot\\rooms.html",
+      "PackagePath": "staticwebassets\\rooms.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HotelManagement1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HotelManagement1.props",
+      "PackagePath": "build\\HotelManagement1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HotelManagement1.props",
+      "PackagePath": "buildMultiTargeting\\HotelManagement1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HotelManagement1.props",
+      "PackagePath": "buildTransitive\\HotelManagement1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
