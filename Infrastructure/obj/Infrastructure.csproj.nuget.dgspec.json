@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Infrastructure\\Infrastructure.csproj": {}
+    "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\Application.csproj": {
+    "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -27,15 +27,14 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\acer\\Desktop\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj"
+              "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj"
               }
             }
           }
@@ -89,18 +88,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj": {
+    "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -116,7 +115,6 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\acer\\Desktop\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -150,18 +148,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -177,18 +175,17 @@
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "C:\\Program Files\\dotnet\\library-packs": {},
-          "C:\\Users\\acer\\Desktop\\Packages": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Application\\Application.csproj"
+              "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Application\\Application.csproj"
               },
-              "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\Domain\\Domain.csproj"
+              "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\Domain\\Domain.csproj"
               }
             }
           }
@@ -218,7 +215,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ZNTX2UkK2+SeXrnsAvRATiPmbwK2XnWSzp5MG/7TJTXbkqgDBLhp+vRCb8fJ4e3Xc5Ftioj99s1LUZ0EFr6egg==",
+  "dgSpecHash": "LvLp8+L/n5EUKlac48T8U05ve5Gcue9kOi++wG+CmKbk8FSQQUFegeYauE9btD8d+/YYg+Zze+RBwLpG0WrhlA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\acer\\Desktop\\New folder (4)\\Maqsudjon\\Maqsudjon\\HotelManagement1\\HotelManagement1\\HotelManagement1.csproj",
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\New folder (4)\\HotelManagement\\HotelManagement1\\HotelManagement1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
